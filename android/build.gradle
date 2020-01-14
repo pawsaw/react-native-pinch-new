@@ -13,7 +13,6 @@ android {
 }
 
 dependencies {
-    implementation "androidx.appcompat:appcompat:1.1.0"
-    implementation "androidx.annotation:annotation:1.1.0"
+    implementation "androidx.annotation:annotation:+"
     implementation "com.facebook.react:react-native:+"  // From node_modules
 }
